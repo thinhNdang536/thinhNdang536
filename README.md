@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thinh Dang - Software Developer</h1>
-<h3 align="center">A college student passionate in Computer System.</h3>
+<h3 align="center">A college student passionate in Computer Science</h3>
 
 - 🌱 I’m currently learning **Rails, React, Angular, ...**
 
