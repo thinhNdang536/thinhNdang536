@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Thinh and I'm a college student passionate in Computer System.</h2>
+<h2 align="left">Hi 👋! My name is Thinh<br>I'm a college student passionate in Computer System.</h2>
 
 ###
 
