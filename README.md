@@ -81,8 +81,8 @@ I’m also a huge **Pokémon** fan! I love exploring new features in the games a
 
 Here are some personal projects I've worked on, showcasing my skills and interests in various fields:
 
-- **[Matchstick Game with ARM Assembly](https://github.com/thinhNdang536/DigitalStopwatch)**: A simple terminal-based matchstick game implemented in **ARM Assembly**. It’s an example of low-level programming where two players take turns picking matchsticks.
-- **[Discord Bot](https://github.com/thinhNdang536/Matchstick-game-with-ARM-Assembly)**: A Python-based Discord bot that I created to automate tasks like moderation, playing music, and more. I’m currently improving it by adding new features and expanding its capabilities.
+- **[DigitalStopwatch](https://github.com/thinhNdang536/DigitalStopwatch)**: A simple terminal-based matchstick game implemented in **ARM Assembly**. It’s an example of low-level programming where two players take turns picking matchsticks.
+- **[Matchstick Game with ARM Assembly](https://github.com/thinhNdang536/Matchstick-game-with-ARM-Assembly)**: A Python-based Discord bot that I created to automate tasks like moderation, playing music, and more. I’m currently improving it by adding new features and expanding its capabilities.
 
 ---
 
