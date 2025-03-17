@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Thinh and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Thinh and I'm a college student passionate in Computer System.</h2>
 
 ###
 
@@ -52,6 +52,6 @@
 
 ###
 
-<p align="left">A college student passionate in Computer System.</p>
+<p align="left">- 🔭 I’m currently working on **discord-bot**<br><br>- 🌱 I’m currently learning **Rails, React, Angular, ...**<br><br>- 🤝 I’m looking for help with **C++, Java, Javascript**<br><br>- 💬 Ask me about **Python**<br><br>- 📫 How to reach me **Discord**</p>
 
 ###
