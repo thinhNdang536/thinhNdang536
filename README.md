@@ -8,7 +8,7 @@
 
 ### About Me
 
-I am a dedicated **Computer System** enthusiast currently pursuing my college studies. I have a deep passion for **low-level programming**, **systems engineering**, and **web development**. Over the years, I've become comfortable working with various technologies and frameworks such as **Python**, **HTML**, **CSS**, **JavaScript**, **FastAPI**, **React**, and **Rails**.
+I am a dedicated **Computer System** enthusiast currently pursuing my college studies. I have a deep passion for **software engineering**, and **web development**. Over the years, I've become comfortable working with various technologies and frameworks such as **Python**, **HTML**, **CSS**, **JavaScript**, **FastAPI**, **React**, and **Rails**.
 
 I thrive in challenging environments where I can solve complex problems and create innovative solutions. I'm always looking to improve my knowledge and stay up-to-date with the latest tech trends. When I’m not coding, you’ll find me exploring new tech, playing video games, or reading up on new developments in the tech world.
 
