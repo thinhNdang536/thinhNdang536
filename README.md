@@ -52,6 +52,14 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on **discord-bot**<br><br>- 🌱 I’m currently learning **Rails, React, Angular, ...**<br><br>- 🤝 I’m looking for help with **C++, Java, Javascript**<br><br>- 💬 Ask me about **Python**<br><br>- 📫 How to reach me **Discord**</p>
+- 🔭 I’m currently working on **discord-bot**
+
+- 🌱 I’m currently learning **Rails, React, Angular, ...**
+
+- 🤝 I’m looking for help with **C++, Java, Javascript**
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **Discord**
 
 ###
