@@ -86,6 +86,15 @@ Here are some personal projects I've worked on, showcasing my skills and interes
 
 ---
 
+### My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thinhNdang536&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Thinh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinhNdang536&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
 ### Education
 
 - 🎓 **Bachelor of Computer Science**, Swinburne University (Expected Graduation: 2026)
