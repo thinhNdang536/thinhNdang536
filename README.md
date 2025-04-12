@@ -1,10 +1,10 @@
 <h2 align="left">Hi 👋! My name is Thinh<br>I'm a college student passionate about Computer Systems and programming!</h2>
 
-###
+---
 
 <img align="right" height="150" src="https://media.tenor.com/nnxFzGKKWrAAAAAM/koraidon-pokemon.gif" />
 
-###
+---
 
 ### About Me
 
@@ -12,7 +12,7 @@ I am a dedicated **Computer System** enthusiast currently pursuing my college st
 
 I thrive in challenging environments where I can solve complex problems and create innovative solutions. I'm always looking to improve my knowledge and stay up-to-date with the latest tech trends. When I’m not coding, you’ll find me exploring new tech, playing video games, or reading up on new developments in the tech world.
 
-### Fun Fact:  
+**Fun Fact:**  
 I’m also a huge **Pokémon** fan! I love exploring new features in the games and drawing inspiration from them for personal projects. 🐾
 
 ---
