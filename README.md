@@ -88,6 +88,8 @@ Here are some personal projects I've worked on, showcasing my skills and interes
 
 ### My GitHub Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thinhNdang536&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thinhNdang536&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Thinh's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinhNdang536&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
