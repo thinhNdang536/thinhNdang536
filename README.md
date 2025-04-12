@@ -102,7 +102,9 @@ Here are some personal projects I've worked on, showcasing my skills and interes
 
 ### Top Contributions
 
-![Github Contributions](https://greptile-stats.vercel.app/api/widget/thinhNdang536/contributions)
+<div align="center">
+  <img src="https://greptile-stats.vercel.app/api/widget/thinhNdang536/contributions" alt="GitHub Contributions" />
+</div>
 
 ---
 
