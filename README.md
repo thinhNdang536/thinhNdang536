@@ -100,6 +100,12 @@ Here are some personal projects I've worked on, showcasing my skills and interes
 
 ---
 
+### Top Contributions
+
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/thinhNdang536/contributions)
+
+---
+
 ### Education
 
 - 🎓 **Bachelor of Computer Science**, Swinburne University (Expected Graduation: 2026)
