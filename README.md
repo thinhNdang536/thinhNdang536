@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Thinh<br>I'm a college student passionate about Computer Systems and programming!</h2>
 
----
-
 ## 👨‍💻 About Me
 
 <img align="right" height="150" src="https://media.tenor.com/nnxFzGKKWrAAAAAM/koraidon-pokemon.gif" />
