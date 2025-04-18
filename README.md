@@ -2,10 +2,6 @@
 
 ---
 
-<img align="right" height="150" src="https://media.tenor.com/nnxFzGKKWrAAAAAM/koraidon-pokemon.gif" />
-
----
-
 ## 👨‍💻 About Me
 
 I’m a dedicated **Computer Systems** enthusiast currently studying for my Bachelor's in Computer Science. I'm deeply passionate about **software engineering** and **web development**, and I love building things that solve real problems.
@@ -15,6 +11,8 @@ When I’m not coding, I’m probably playing Pokémon, exploring new tech, or r
 
 **Fun fact:**  
 Big Pokémon fan — sometimes I bring game ideas into real-life code 🐾
+
+<img align="right" height="150" src="https://media.tenor.com/nnxFzGKKWrAAAAAM/koraidon-pokemon.gif" />
 
 ---
 
