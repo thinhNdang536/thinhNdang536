@@ -43,7 +43,7 @@ Big Pokémon fan — sometimes I bring game ideas into real-life code 🐾
 - ### **🧑‍💻 Programming Languages**
   - **Frontend:<br>**
     <img src="https://skillicons.dev/icons?i=html,css,js" height="30" alt="Frontend Languages"/>
-  - **Backend & Scripting:<br>**
+  - **Backend & Scripting Languages:<br>**
     <img src="https://skillicons.dev/icons?i=python,php" height="30" alt="Backend Languages" />
 
 - ### **⚙️ Frameworks & Libraries**
@@ -66,7 +66,7 @@ Big Pokémon fan — sometimes I bring game ideas into real-life code 🐾
 ## 🌈 My Strengths
 
 - Breaking down hard concepts (I kinda like sharing knowledge for everyone to easily understand them!)
-- Writing clean code, clean format and good docstrings
+- Writing clean, well-formatted code with thorough docstrings
 - Solid understanding of system-level fundamentals (assembly, memory, bit-level logic)
 
 ---
@@ -74,7 +74,7 @@ Big Pokémon fan — sometimes I bring game ideas into real-life code 🐾
 ## 🎯 My Future Vision
 
 - Teach part-time at lectures in universities
-- Grow a dev blog/YT sharing knowledge, tutorials, ect.
+- Grow a dev blog and Youtube channel sharing knowledge, tutorials, ect.
 - Build useful tools, open-source utilities, or quirky side projects
 
 ---
