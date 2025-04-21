@@ -16,27 +16,64 @@ Big Pokémon fan — sometimes I bring game ideas into real-life code 🐾
 
 ---
 
+## 🔗 Connect With Me
+
+- ### **For Works and Collaboration:**
+    [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:my.email@example.com)
+    [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/my_linkedin/)
+    [![Signal](https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=25D366&logoColor=white&style=for-the-badge)](https://signal.org)
+
+- ### **For Tech Content & Community:**
+    [![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge)](https://www.youtube.com/c/my_yt)
+    [![Medium](https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=00AB6C&logoColor=white&style=for-the-badge)](https://medium.com/@me)
+    [![Reddit](https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/my_reddit)
+
+- ### **For Personal (Social & Casual Contacts):**
+    [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge)](https://twitter.com/YOUR_TWITTER/)
+    [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge)](https://discord.com/users/YOUR_DISCORD)
+
+- ### **⚠️ Note:**
+  - **Privacy Concerns:** I do not use platforms like Facebook and Instagram for privacy reasons.
+  - Feel free to reach out via the platforms above for any collaborations, tech content, or casual chats!
+
+---
+
 ## 🛠 Tech Stack & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" height="30" alt="rails" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,php,selenium,lua" height="30" />
+<div align="left" style="margin-left: 10px">
+    <div>
+        <h4>• Programing Languages:</h4>
+        <img src="https://skillicons.dev/icons?i=python,html,css,php,js" height="30" alt="tools" style="margin-left: 30px" />
+    </div>
+    <div>
+        <h4>• Frameworks:</h4>
+        <img src="https://skillicons.dev/icons?i=qt,fastapi,bots,selenium,bootstrap,tailwind" height="30" alt="tools" style="margin-left: 30px" />
+    </div>
+    <div>
+        <h4>• Databases:</h4>
+        <img src="https://skillicons.dev/icons?i=mysql,mariadb" height="30" alt="tools" style="margin-left: 30px" />
+    </div>
+    <div>
+        <h4>• Tools:</h4>
+        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,sublime,postman" height="30" alt="tools" style="margin-left: 30px" />
+    </div>
 </div>
 
 ---
 
-## 🔗 Connect With Me
+## 🌈 My Strengths
 
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge)](https://discordapp.com/users/YOUR_ID_HERE)  
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:your.email@example.com)  
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+- Breaking down hard concepts (I kinda like sharing knowledge for everyone to easily understand them!)
+- Writing clean code, clean format and good docstrings
+- Solid understanding of system-level fundamentals (assembly, memory, bit-level logic)
+
+---
+
+## 🎯 My Future Vision
+
+- Teach part-time at lectures in universities
+- Grow a dev blog/YT sharing knowledge, tutorials, ect.
+- Build useful tools, open-source utilities, or quirky side projects
 
 ---
 
@@ -50,15 +87,15 @@ Big Pokémon fan — sometimes I bring game ideas into real-life code 🐾
 
 ## 💬 Ask Me About
 
-**Python**, **FastAPI**, **Git/GitHub**, **Discord bots**, or anything you're curious about in backend/web dev. Always down for collab or chat!
+**Python**, **FastAPI**, **Git/GitHub**, or anything you're curious about in backend/web dev. Always down for collab or chat!
 
 ---
 
 ## 🧠 Personal Projects
 
-- 🔹 [**Digital Stopwatch**](https://github.com/thinhNdang536/DigitalStopwatch): A simple stopwatch built in Python using `time` module and CLI interface.
-- 🔹 [**Matchstick Game (ARM Assembly)**](https://github.com/thinhNdang536/Matchstick-game-with-ARM-Assembly): A two-player game written in ARM Assembly — low-level fun!
-- 🔹 [**Discord Bot**](https://github.com/thinhNdang536/discord-bot): A modular bot with commands for moderation, music, and more. Still growing!
+- [**Digital Stopwatch**](https://github.com/thinhNdang536/DigitalStopwatch): A simple stopwatch built in Python using `time` module and CLI interface.
+- [**Matchstick Game (ARM Assembly)**](https://github.com/thinhNdang536/Matchstick-game-with-ARM-Assembly): A two-player game written in ARM Assembly — low-level fun!
+-  [**Discord Bot**](https://github.com/thinhNdang536/discord-bot): A modular bot with commands for moderation, music, and more. Still growing!
 
 ---
 
