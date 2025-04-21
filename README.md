@@ -40,24 +40,26 @@ Big Pokémon fan — sometimes I bring game ideas into real-life code 🐾
 
 ## 🛠 Tech Stack & Tools
 
-<div align="left" style="margin-left: 10px">
-    <div>
-        <h4>• Programing Languages:</h4>
-        <img src="https://skillicons.dev/icons?i=python,html,css,php,js" height="30" alt="tools" style="margin-left: 30px" />
-    </div>
-    <div>
-        <h4>• Frameworks:</h4>
-        <img src="https://skillicons.dev/icons?i=qt,fastapi,bots,selenium,bootstrap,tailwind" height="30" alt="tools" style="margin-left: 30px" />
-    </div>
-    <div>
-        <h4>• Databases:</h4>
-        <img src="https://skillicons.dev/icons?i=mysql,mariadb" height="30" alt="tools" style="margin-left: 30px" />
-    </div>
-    <div>
-        <h4>• Tools:</h4>
-        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,sublime,postman" height="30" alt="tools" style="margin-left: 30px" />
-    </div>
-</div>
+- ### **🧑‍💻 Programming Languages**
+  - **Frontend:<br>**
+    <img src="https://skillicons.dev/icons?i=html,css,js" height="30" alt="Frontend Languages"/>
+  - **Backend & Scripting:<br>**
+    <img src="https://skillicons.dev/icons?i=python,php" height="30" alt="Backend Languages" />
+
+- ### **⚙️ Frameworks & Libraries**
+  - **Python Ecosystem:<br>**
+    <img src="https://skillicons.dev/icons?i=fastapi,qt,bots,selenium" height="30" alt="Frameworks" />
+  - **Css Frameworks:<br>**
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" height="30" alt="Frameworks" />
+
+- ### **🗃️ Databases**
+  - **Relational:<br>**
+    <img src="https://skillicons.dev/icons?i=mysql,mariadb" height="30" alt="Databases" />
+  - **NoSQL:<br>**
+    *Currently learning – updates coming soon!*
+
+- ### **🔧 Tools & Platforms**
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,postman,figma" height="30" alt="Tools" />
 
 ---
 
