@@ -22,6 +22,10 @@ Big Pokémon fan — sometimes I bring game ideas into real-life code 🐾
     [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)]()
     [![Signal](https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=25D366&logoColor=white&style=for-the-badge)](https://signal.me/#eu/wDkgs3vN2dz2NOkvMb8iu0DePbEhNQi4CgK865wjgT8q37PzlbhCwaPjjVTzXvkr)
 
+- ### **Education:**
+    [![freeCodeCamp](https://img.shields.io/static/v1?message=freeCodeCamp&logo=freeCodeCamp&label=&color=0A0A23&logoColor=white&style=for-the-badge)]()
+    [![LeetCode](https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=d16c06&logoColor=white&style=for-the-badge)](https://leetcode.com/u/thinhndang536/)
+
 - ### **For Tech Content & Community:**
     [![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge)]()
     [![Medium](https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=00AB6C&logoColor=white&style=for-the-badge)]()
