@@ -13,24 +13,23 @@ When I’m not coding, I’m probably playing Pokémon, exploring new tech, or r
 
 **Fun fact:**  
 Big Pokémon fan — sometimes I bring game ideas into real-life code 🐾
-
 ---
 
 ## 🔗 Connect With Me
 
 - ### **For Works and Collaboration:**
-    [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:my.email@example.com)
-    [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/my_linkedin/)
-    [![Signal](https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=25D366&logoColor=white&style=for-the-badge)](https://signal.org)
+    [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:thinhndang536.dev@gmail.com)
+    [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)]()
+    [![Signal](https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=25D366&logoColor=white&style=for-the-badge)](https://signal.me/#eu/wDkgs3vN2dz2NOkvMb8iu0DePbEhNQi4CgK865wjgT8q37PzlbhCwaPjjVTzXvkr)
 
 - ### **For Tech Content & Community:**
-    [![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge)](https://www.youtube.com/c/my_yt)
-    [![Medium](https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=00AB6C&logoColor=white&style=for-the-badge)](https://medium.com/@me)
-    [![Reddit](https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/my_reddit)
+    [![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge)]()
+    [![Medium](https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=00AB6C&logoColor=white&style=for-the-badge)]()
+    [![Reddit](https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&style=for-the-badge)]()
 
 - ### **For Personal (Social & Casual Contacts):**
-    [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge)](https://twitter.com/YOUR_TWITTER/)
-    [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge)](https://discord.com/users/YOUR_DISCORD)
+    [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge)]()
+    [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge)]()
 
 - ### **⚠️ Note:**
   - **Privacy Concerns:** I do not use platforms like Facebook and Instagram for privacy reasons.
@@ -97,7 +96,6 @@ Big Pokémon fan — sometimes I bring game ideas into real-life code 🐾
 
 - [**Digital Stopwatch**](https://github.com/thinhNdang536/DigitalStopwatch): A simple stopwatch built in Python using `time` module and CLI interface.
 - [**Matchstick Game (ARM Assembly)**](https://github.com/thinhNdang536/Matchstick-game-with-ARM-Assembly): A two-player game written in ARM Assembly — low-level fun!
--  [**Discord Bot**](https://github.com/thinhNdang536/discord-bot): A modular bot with commands for moderation, music, and more. Still growing!
 
 ---
 
@@ -108,6 +106,7 @@ Big Pokémon fan — sometimes I bring game ideas into real-life code 🐾
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=thinhNdang536&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinhNdang536&layout=compact&langs_count=6&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thinhNdang536&theme=github_dark" />
 </div>
 
 ---
